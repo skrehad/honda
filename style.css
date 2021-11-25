@@ -1,0 +1,25 @@
+.text-color{
+    color: #FFFFFF;
+}
+.bg-btn-color{
+    background-color:#E76F51 ;
+}
+.bg-color{
+    background-color:#264653 ;
+}
+.color{
+    color:#E76F51 ;
+}
+.filter{
+    filter: grayscale(100%);
+}
+.icon-color{
+    color: #E76F51;
+}
+.from-bg-color{
+    background-color: #F1F6FC;
+}
+.btn-width{
+    width: 200px;
+    height: 50px;
+}
